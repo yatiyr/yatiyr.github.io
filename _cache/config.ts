@@ -207,6 +207,7 @@ export default {
          * @see docs/config.md #Filters
          */
         repositories: [
+          { attr: 'name', values: ['yatiyr/hylengine'], revert: false, more: '' }          
           //
         ],
       },
